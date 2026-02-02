@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Sadashray Rastogi<br>-🎓 Final year B.Tech Electronics and Computer Science student<br>- 📊 Passionate about Data Science, Machine Learning, Deep Learning, and DSA<br>- 💻  Worked with JAVA, SQL, MySQL<br>- 🛠 Built projects in Computer Vision, NLP, and ML applications<br>- 🌱 Continuously improving my skills in DSA and Data Science.
+I'm Sadashray Rastogi<br>-🎓 Final year B.Tech Electronics and Computer Science student<br>- 📊 Passionate about Data Science, Machine Learning, Deep Learning, and DSA<br>- 💻  Learning JAVA,Python and SQL<br>- 🛠 Built projects in Computer Vision, NLP, and ML applications<br>- 🌱 Continuously improving my skills in DSA and Data Science.
 
 
 ## 🌐 Socials:
